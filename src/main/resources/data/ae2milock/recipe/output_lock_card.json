@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    { "item": "ae2:basic_card" },
+    { "item": "ae2:logic_processor" },
+    { "item": "modern_industrialization:electronic_circuit" }
+  ],
+  "result": {
+    "id": "ae2milock:output_lock_card",
+    "count": 1
+  }
+}

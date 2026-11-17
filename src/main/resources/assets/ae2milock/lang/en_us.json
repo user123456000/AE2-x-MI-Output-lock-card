@@ -1,0 +1,6 @@
+{
+  "item.ae2milock.output_lock_card": "Output Lock Card",
+  "item.ae2milock.output_lock_card.tooltip.1": "Place in a Pattern Provider that faces a Modern Industrialization machine or a multiblock input hatch.",
+  "item.ae2milock.output_lock_card.tooltip.2": "When a pattern is pushed, the machine's output slots are locked to exactly the products of the pattern; all other output slots are locked to nothing.",
+  "item.ae2milock.output_lock_card.tooltip.3": "The pattern does not have to match a real recipe."
+}

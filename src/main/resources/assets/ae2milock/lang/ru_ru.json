@@ -1,0 +1,6 @@
+{
+  "item.ae2milock.output_lock_card": "Карта блокировки выходов",
+  "item.ae2milock.output_lock_card.tooltip.1": "Вставляется в поставщик шаблонов, направленный на машину Modern Industrialization или на входной шлюз мультиблока.",
+  "item.ae2milock.output_lock_card.tooltip.2": "При отправке шаблона выходные слоты машины блокируются ровно на продукты шаблона, а все остальные выходные слоты - на «пустоту».",
+  "item.ae2milock.output_lock_card.tooltip.3": "Шаблон не обязан соответствовать реальному рецепту."
+}

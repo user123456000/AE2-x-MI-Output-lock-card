@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.example.ae2milock.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "PatternProviderLogicMixin",
+    "PatternProviderMenuMixin"
+  ],
+  "client": [
+    "client.PatternProviderScreenMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
